@@ -1,0 +1,1849 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The moderate cavalier, or, The soldiers description of Ireland and of the country disease, with receipts for the same</title>
+            <author>Mercer, William, 1605?-1676?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50629</idno>
+            <idno type="STC">Wing M1739</idno>
+            <idno type="STC">ESTC R17061</idno>
+            <idno type="EEBO-CITATION">13644699</idno>
+            <idno type="OCLC">ocm 13644699</idno>
+            <idno type="VID">100904</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50629)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100904)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 795:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The moderate cavalier, or, The soldiers description of Ireland and of the country disease, with receipts for the same</title>
+                  <author>Mercer, William, 1605?-1676?</author>
+               </titleStmt>
+               <extent>36 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Cork? :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Attributed to William Mercer.  Cf. DNB.</note>
+                  <note>Probable place of publication from Wing.</note>
+                  <note>"A book fit for all Protestants in Ireland."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Zev Berger</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Zev Berger</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100904:1"/>
+            <pb facs="tcp:100904:1"/>
+            <p>
+               <hi>Moderate Caualier</hi> OR <hi>The Soldiers Deſcription of</hi> IRELAND AND <hi>Of the Country Diſeaſe,</hi> With Receipts for the ſame:</p>
+            <lg>
+               <l>FRom <hi>Gloceſter</hi> Siege till Arms lay'd downe</l>
+               <l>In <hi>Trewroe</hi> fields, I for the Crowne</l>
+               <l>Vnder St. <hi>George</hi> March'd up and down</l>
+            </lg>
+            <p>And then Sir,</p>
+            <lg>
+               <l>For <hi>Ireland</hi> came, and had my ſhare</l>
+               <l>Of Blows not Lands gain'd in that warre</l>
+               <l>But GOD defend me from ſuch fare</l>
+            </lg>
+            <p>Again Sir.</p>
+            <q>Take heed to thy ſelf, lest theu make a Covenant with the Inhabitants of the Land whither thou goest, lest it be for a ſnare in the miaſt of thee,</q>
+            <bibl>Exod: 34: 12,</bibl>
+            <q>Only take heed to thyſelf, and keep thy ſoul diligently, leſt theu forget the things which thi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> eyes have ſeen, lest they depart from thy heart all the dayes of thy life. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hus teach them thy ſons and thy ſons ſons.</q>
+            <bibl>Deut: 4. 9,</bibl>
+            <p>
+               <hi>A Book fit for all</hi> Proteſtants <hi>houſes in</hi> Ireland<g ref="char:punc">▪</g> Printed Anno. Dom, MDCIXXV</p>
+         </div>
+      </front>
+      <body>
+         <div type="to_the_reader">
+            <pb n="2" facs="tcp:100904:2"/>
+            <head>To the <hi>Proteſtant</hi> Nobility Gentry and Soldiery of <hi>Ireland,</hi> but more eſpecially to the Woſhipfull the Major Aldermen Sherriff, Citizens and Inhabitants of the City of Corke.</head>
+            <lg>
+               <l>A Soldier for the KING (great Sirs) to you</l>
+               <l>Humbly preſents this little book to viewe</l>
+               <l>Which ſpeaks of Storyes old, and not of newes</l>
+               <l>Things to moſt of you known: may be of vſe</l>
+               <l>In after ages, when wee're dead and gone</l>
+               <l>And 'mongſt all Proteſtants worth thinking on</l>
+            </lg>
+            <lg>
+               <l>He ſtiles his book, The Mod'rate Cavalier</l>
+               <l>Which who ſo reads, will find him ſo appear</l>
+               <l>Hee's no Incendiarie, to blow the fire</l>
+               <l>Of diſcenſion 'mongſt Factions; or deſire</l>
+               <l>VVarres: being content with his lowe eſtate</l>
+               <l>But's ſorry that (too true) he can relate</l>
+               <l>No more of good encouragement from friends</l>
+               <l>To the poor Soldiers; who deſerv'd amends</l>
+               <l>For their paſt Service, nere to be forgott</l>
+               <l>Whilſt in <hi>Ireland's,</hi> an <hi>Engliſhman</hi> or <hi>Scott.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Be pleas'd therefore (brave Sirs) to Patronize</l>
+               <l>The Soldiers worke, that to his Enemies</l>
+               <l>He be not made contemptible, whoſe drift</l>
+               <l>For a poor liveing's only to make ſhift</l>
+               <l>VVhich being granted, the Soldier I ſay</l>
+               <l>For you and yours Eternally ſhall pray.</l>
+            </lg>
+         </div>
+         <div type="preface">
+            <head>The Author upon his intent to have preſented three dozen of theſe R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ks to the Major of Corke and his guests at his Feaſt when he firſt comes into his Office.</head>
+            <lg>
+               <l>GAllants, to Crown this Feaſt, you're here preſented</l>
+               <l>With a New diſh of Poetry, Invented</l>
+               <l>
+                  <pb n="3" facs="tcp:100904:2"/>By a Soldier, and brought from Camp toth' City</l>
+               <l>VVhich ſpeaks of ſerious things more than of witty</l>
+               <l>Yet if in reading, it beget a ſmile</l>
+               <l>I hope (dear friends) you're pleaſed well that while</l>
+            </lg>
+            <lg>
+               <l>Behold three dozen Servitors appears</l>
+               <l>Which are ſix files of Mod'rate Cavaliers</l>
+               <l>All private Soldiers of the Forty Nine</l>
+               <l>Reviv'd with loſt Arrears, byth' grand deſigne</l>
+               <l>VVho come to make up a new <hi>Convivium</hi>
+               </l>
+               <l>
+                  <hi>Aut Fabuloſum, Aut Historicum</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Their Root is Six, which makes a Battail ſquare</l>
+               <l>Their Front<g ref="char:punc">▪</g> their Flanks, their Rear, all equal are</l>
+               <l>Silence once ſaid, then they in Poſture ſtand</l>
+               <l>Till they receive the next word of Command.</l>
+               <l>They will not Plunder, For you may your pockett</l>
+               <l>Or Tru<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k, leave to their charge and never lock it</l>
+            </lg>
+            <lg>
+               <l>Be pleas'd to hear them ſpeak, or you may find</l>
+               <l>By lookeing on them, what is in their Mind</l>
+               <l>If you don't like their Story, you may clap-em</l>
+               <l>Byth' heels, Caſhier or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eare, or you may wrap-em</l>
+               <l>About your Sweetmeats, or they'l light your Pipe</l>
+               <l>Or at the worſt, they'l ſerve your—to wipe</l>
+            </lg>
+            <lg>
+               <l>If you do like their ſpeech which is but Ruſtick</l>
+               <l>They'l tell the Feats they 've done with Pike &amp; Muſqu<g ref="char:EOLunhyphen"/>et</l>
+               <l>How they have chaſed <hi>Teige,</hi> through woods &amp; Boggs</l>
+               <l>And frightned him, more than a Hare's with Doggs</l>
+               <l>They'l tell how all <hi>Ireland,</hi> was at their coſt</l>
+               <l>Of Blood and Sweat, regain'd when it was loſt</l>
+            </lg>
+            <lg>
+               <l>Thus have I told you, what they are, and how</l>
+               <l>They may prove ſerviceable unto you:</l>
+               <l>It onely reſts that I Now for my paines</l>
+               <l>No loſer be: if that I get no gaines</l>
+               <l>Then, what you pleaſe, toth' Poet, or the Printer</l>
+               <l>'TWill be an help to keep, a Fire in VVinter</l>
+            </lg>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:100904:3"/>
+            <lg>
+               <l>MY Countrey Conſcience, prompts me not at all</l>
+               <l>'On feigned Gods, but oth' true God to call</l>
+               <l>T'inſpire my Muſe, and help me to relate</l>
+               <l>The poor <hi>Engliſh</hi> Proteſtants caſe and State</l>
+               <l>In <hi>Ireland,</hi> and to ſhew how they grew poor</l>
+               <l>And why ſo now, and then, let's God implore</l>
+               <l>To be their aid, and pray him to enlarge</l>
+               <l>Our Rich Countreymens hearts, for to diſcharge</l>
+               <l>Their duty naturall: For I conclude,</l>
+               <l>To Help their Helpers is but gratitude.</l>
+               <l>Theſe poor are ſuch, whoſe miſhap made them ſo</l>
+               <l>And not their Sloath, as plainly here I'le ſhowe,</l>
+            </lg>
+            <lg>
+               <l>Four hundred years, this venomleſs fair Land</l>
+               <l>(Except the Natives hearts) was at Command</l>
+               <l>Oth' <hi>Engliſh</hi> Scepter, and Imperialll Crowne,</l>
+               <l>VVhoſe often Conqueſts kept Rebellions down</l>
+               <l>Till Forty one, when Hell broke looſe: the Devill</l>
+               <l>And Popiſh Prieſts, all plotting the vncivill</l>
+               <l>Late bloudy, barb'rous and Inhumane warre</l>
+               <l>I want apt words, their mallice to declare</l>
+               <l>That Authors, Actours, and Contrivers were</l>
+               <l>To kill and ſpoyle the <hi>Engliſh</hi> ev'ry where</l>
+               <l>Then ſpread abroad throughout this Iſle in Peace</l>
+               <l>At home, and in their beds a ſleep, did theſe</l>
+               <l>Hell-taught Furies, in one black diſmal night</l>
+               <l>One hundred thouſand Murther, e're 'twas light</l>
+               <l>(Except the light, they made by ſetting fire</l>
+               <l>Oth' <hi>Engliſh</hi> dwelling houſes) But t'inquire</l>
+               <l>Of all the Tortures, and vnheard of deaths</l>
+               <l>(Till then) the tongue of any man that breaths</l>
+               <l>Cannot expreſſe; much leſs then can my Pen</l>
+               <l>For Burn'd, Hang'd, Drown'd &amp; Whip'd to dath were men</l>
+               <l>
+                  <pb n="5" facs="tcp:100904:3"/>Women with Child, and Babes but newly borne</l>
+               <l>Alive rip'd open, and to pieces torne</l>
+               <l>Strip'd naked forc'd to run through Furres &amp; Thornes</l>
+               <l>And hunted were with Doggs (having ſett Horns</l>
+               <l>Vpon their heads, to make them ſeem ſtrange beaſts</l>
+               <l>VVhreof they boaſted, 'mongſt themſelves at Feaſts</l>
+            </lg>
+            <lg>
+               <l>All this was nothing to their Cruelty</l>
+               <l>VVhich to eſcape, for <hi>England</hi> they muſt flye</l>
+               <l>VVhere Men in haſt are raiſed to ſuppreſſe</l>
+               <l>Thoſe Caniballs, and help, theſe comfortleſſe</l>
+               <l>VVho ſoon arrived (by Gods bleſſing) here</l>
+               <l>And dar'd the Slaves to Battell every where</l>
+               <l>Twenty to one, Nay <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en, they judg'd no odds</l>
+               <l>To give the Butchers, where the cauſe was Gods</l>
+               <l>And in ſhort ſpace, a handfull of Sick men</l>
+               <l>This Bloudy Nation had almoſt againe</l>
+               <l>Quite Conquered: But oh, alas! the VVarre</l>
+               <l>Twixt KING an Parliament, our Trophees marre</l>
+               <l>Thoſe Warlike ſpirits Quaſh'd by a Ceſſation</l>
+               <l>Of Arms; the bloudy Rebells, take occaſion</l>
+               <l>To gather ſtrength whilſt our weake aids do ſcatter</l>
+               <l>They ſeem, themſelves with Victorie to flatter</l>
+               <l>Takeing advantage of the time, their Traine</l>
+               <l>Is brought with ſpeed, their loſt Forts to regaine</l>
+               <l>All's now their owne, except ſome Sea-port town</l>
+               <l>And that's Beſieg'd, and almoſt batter'd downe</l>
+               <l>VVherein letts leave them, praying for ſome ayd</l>
+               <l>And croſſe the Seas for <hi>England</hi> let us wade</l>
+               <l>VVhere Agents do addreſſe themſelves toth' King</l>
+               <l>And Parliament, more forces thence to bring</l>
+               <l>But all in vaine, their owne turnes firſt they'l ſerve</l>
+               <l>Let <hi>Ireland</hi> ſink or ſwim, or yeild or Starve.</l>
+            </lg>
+            <lg>
+               <l>VVhen <hi>Youghall</hi> was beſieg'd, and <hi>Corke</hi> block'd up</l>
+               <l>
+                  <hi>Kinſale,</hi> and <hi>Bandon bridge</hi> dreading the Cup</l>
+               <l>
+                  <pb n="6" facs="tcp:100904:4"/>The Rebells had prepar'd for them to drink</l>
+               <l>Of <hi>Irelands</hi> ſad eſtate, what could men think?</l>
+               <l>The vaſt Eſtate of him thats now a Lord</l>
+               <l>One bit of bread to him did not affoard</l>
+               <l>VVould he not Promiſe much, but think ye then,</l>
+               <l>To VVarlike Officers and all their men</l>
+               <l>That durſt adventure but to fetch a Prey</l>
+               <l>From his loſt Lands; what promiſes I ſay</l>
+               <l>VVould he not make? ſhould not the Soldiers ſhare</l>
+               <l>Be the one half at leaſt, oth'gaine by warre?</l>
+               <l>VVould he not Promiſe much, but think ye too</l>
+               <l>If ere came Peace, what he for them would do?</l>
+               <l>They ſhould have Farmes, to live on, at ſuch Rates</l>
+               <l>As if the ſame, had been their owne Eſtates</l>
+               <l>And, in all Cities, and the Markett townes</l>
+               <l>They ſhould be Freemen, if not weare Furre Gownes<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>Have ye not heard, how the Mouſe in a Kieve</l>
+               <l>Of good Ale drowning, promiſed to give</l>
+               <l>Her ſelf, toth'Cat, if ſhe would help her out</l>
+               <l>Of that ſame danger; whereof (there is no doubt)</l>
+               <l>The Cat was glad; and forthwith lent her hand</l>
+               <l>And brought her forth: The Mouſe then at a ſtand</l>
+               <l>What ſhe ſhould do; at length eſpy'd a hole</l>
+               <l>Wherein ſhe crept: the Car, ſeeing her ſtole</l>
+               <l>Away; ſaid, Faithleſs Mouſe performe your word</l>
+               <l>Or ne're againe ſuch help 'Ile you affoard:</l>
+               <l>The Mouſe ſecure, tells her a pretty tale</l>
+               <l>Wee keep no promiſes made in our Ale;</l>
+            </lg>
+            <lg>
+               <l>So here I ſay, Soldiers were promis'd fair</l>
+               <l>While to regaine <hi>Ireland,</hi> moſt did diſpaire</l>
+               <l>But now<g ref="char:punc">▪</g> the work is done, they like the Cat</l>
+               <l>Payd by the Mouſe, are even laughed at.</l>
+            </lg>
+            <lg>
+               <l>In <hi>England</hi> now the broyles are growne ſo great</l>
+               <l>Some for the King and others for the State</l>
+               <l>
+                  <pb n="7" facs="tcp:100904:4"/>That men grow ſcarce, the Father's up in Armes</l>
+               <l>Againſt the Son, the Son againe Alarmes</l>
+               <l>His Fathers Quarters, Roundheads and Cavaliers</l>
+               <l>They call each other in deſpight, and Iears</l>
+               <l>They turne their Colters to ſharp Spears, and Swords</l>
+               <l>And fall to fighting, more with Blows, than words</l>
+               <l>There is no roome for Cowards, all wil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fight</l>
+               <l>'Tis old mens glory, and the Youths delight</l>
+            </lg>
+            <lg>
+               <l>It was long doubtfull, which ſhould overcome</l>
+               <l>Sometimes the Crowne prevail'd, and other ſome</l>
+               <l>'Its Enemie: and to promote each cauſe</l>
+               <l>For bounden Prentices they make new Laws,</l>
+               <l>To take up Armes, and ſerve their times, ith' warre</l>
+               <l>No Corporations, may their Freedoms barre</l>
+               <l>This liberty proclaim'd, like curſed Charmes</l>
+               <l>Emptyes the Shops, &amp; fills the field with Armes</l>
+               <l>Some borne by Men, but more, by Boyes they're Sold<g ref="char:EOLhyphen"/>iers</l>
+               <l>That can but Muſquetts carry on their ſhoulders.</l>
+            </lg>
+            <lg>
+               <l>Moſt hurtfull prov'd this Act, toth' Age Fifteen</l>
+               <l>And there abouts as now is plainly ſeen.</l>
+               <l>For thoſe that ſav'd their lives, they loſt their trades</l>
+               <l>And learn'd to ſwagger 'mong'ſt the Roreing blades</l>
+               <l>They, knew no Parents, but were Sons of <hi>Mars,</hi>
+               </l>
+               <l>Soldiers of Fortune, bred up in the VVarres,</l>
+               <l>Yet Novices they were, and ſpendthrifts too,</l>
+               <l>Hott-mettled blades, they did themſelves vndoe:</l>
+               <l>Who was too greedy for the Upper hand,</l>
+               <l>Which when 'tis gott, then Soldiers muſt diſband</l>
+               <l>Buffe Coates growe out of faſhion, voted downe</l>
+               <l>And Armes muſt then give place unto the Gowne</l>
+               <l>Had they but fought, at the <hi>Low Countrey</hi> rate</l>
+               <l>They'd better pleas'd the King, if not the State.</l>
+            </lg>
+            <lg>
+               <l>But herein, letts not blame, the Victors haſt</l>
+               <l>To end, thoſe Civil Broyles nor let us caſt</l>
+               <l>
+                  <pb n="8" facs="tcp:100904:5"/>The name of Cowards<g ref="char:punc">▪</g> on the Royall bands</l>
+               <l>VVho were outwitted, not or'ecome with hands.</l>
+               <l>Though wee can't Judge, whoſe numbers were at firſt</l>
+               <l>The Greateſt; yet now wee know who'de the worſt</l>
+               <l>The Stateſmen, ſtrove to weaken, ſtill the King</l>
+               <l>Whoſe, Project tooke effect in this one thing</l>
+               <l>They, Ranſom'd ſtill, their Priſoners of Warre</l>
+               <l>Whereof the other Party, tooke no care</l>
+               <l>But ſufferd theirs, to fill the Priſons, ſo</l>
+               <l>That half their men, in field they could not ſhowe<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>Our <hi>Engliſh Iriſh</hi> Agents then addreſſes</l>
+               <l>Make, for thoſe Soldiers, and to them expreſſes</l>
+               <l>Great Love, pitty their preſent caſe, and then</l>
+               <l>Doe ſhew the oddes, 'twixt Priſoners and Free men</l>
+               <l>They, further Urge: the Juſtnes, of the cauſe</l>
+               <l>'Tis, for their Countrey, King, and all the Lawes</l>
+               <l>Of God, and Nature, 'gainſt a Common Foe</l>
+               <l>That they ſhould fight, and into <hi>Ireland</hi> goe</l>
+               <l>Whilſt here, they fought, but Brother againſt brother</l>
+               <l>And deareſt friends, were killing one another.</l>
+            </lg>
+            <p>The State conſented, and the Priſoners yeild</p>
+            <lg>
+               <l>To be at large, once more ith' open field</l>
+               <l>They croſs the Seas, and haſt, to <hi>Iriſh</hi> Shore</l>
+               <l>VVhere getting foot-roome, ſoon doe make it more</l>
+               <l>They raiſe the Sieges, that before, was layd</l>
+               <l>Againſt the Ports, where firſt to land they made</l>
+               <l>Their Cauſe thus chang'd, a doubtfull, for a Juſt one</l>
+               <l>Toth' midſt of all their Foes, they boldly thruſt on</l>
+               <l>Where let us leave them, bravely makeing way</l>
+               <l>For all the good, that's here enjoy'd this day.</l>
+            </lg>
+            <lg>
+               <l>The Royall Party, now in <hi>England,</hi> ſees</l>
+               <l>What 'tis, to loſe ſuch men: for by degrees</l>
+               <l>They are orecome meerly, for want of men</l>
+               <l>And are paſt hopes, except, that one, beat ten</l>
+               <l>
+                  <pb n="9" facs="tcp:100904:5"/>Whereof, they doe deſpaire, knowing their Foe</l>
+               <l>At Equall numbers, fought them, long agoe</l>
+               <l>Thus, weaker ſtill, they grow, the other ſtronger</l>
+               <l>They needs muſt yeild, nor can they hold out longer.</l>
+            </lg>
+            <lg>
+               <l>The Warre thus ended, th' Agents doe Petition</l>
+               <l>For freſh ſupplyes, and ſhew the ſad condition</l>
+               <l>Their friends are in, in <hi>Ireland;</hi> who doe want</l>
+               <l>Both Men, and money, and their Men Provant</l>
+               <l>That are already there; a Comitte</l>
+               <l>Reports their caſe, toth' Houſe, then they decree</l>
+               <l>The Supernumeraries, to diſband,</l>
+               <l>Or ſend them over Seas into <hi>Ireland</hi>
+               </l>
+               <l>They give Commiſſions for to beat up Drums</l>
+               <l>Throughout all <hi>England,</hi> and liſt all that comes</l>
+               <l>For Soldiers; both Round-heads, and Cavaliers</l>
+               <l>All are accepted. ſo they'r Volunteers</l>
+               <l>They promiſe them large pay, and 'tis no wonder</l>
+               <l>The Rebells goods, ſhall be to them free Plunder</l>
+               <l>Each private man ſhall there, be a Frecholder</l>
+               <l>And Gentleman to boot, is ev'ry Soldier.</l>
+            </lg>
+            <lg>
+               <l>Theſe Baits prevail'd, with ſuch as loſt their trades</l>
+               <l>In the late VVarre, and could not get by Spades</l>
+               <l>Their living; and of ſuch, an Army's rais'd</l>
+               <l>VVbo ſoon came o're, and made the Rogues amaz'd</l>
+               <l>They quitt their weaker holds, flye to their ſtronger</l>
+               <l>where they are Storm'd, or elſe are Starv'd with hunger</l>
+               <l>To Mountaines, VVoods, &amp; Boggs, they're chaſed then</l>
+               <l>(Not there ſecure) they're beaten out againe</l>
+               <l>In Loughs, and Iſlands then, they ſeek to hide</l>
+               <l>Themſelves, and villaines; where to abide</l>
+               <l>In ſafety, and unſought for, they ſuppoſe</l>
+               <l>But they're deceav'd: for on drye land, ſuch ſhowes</l>
+               <l>Of New built Shallops, Shipps, &amp; Boats appeares</l>
+               <l>Brought by theſe men, that out they pull byth' ears</l>
+               <l>
+                  <pb n="10" facs="tcp:100904:6"/>Thoſe Murth'ring Runawayes: yet give them Quarter</l>
+               <l>Who at the firſt, put the <hi>Britiſh</hi> to torture.</l>
+            </lg>
+            <lg>
+               <l>Here, by the way (Reader) I thee adviſe</l>
+               <l>To take notice, that I in any wiſe</l>
+               <l>Do not aſcribe, the glory oth' Conqueſt</l>
+               <l>To Men<g ref="char:punc">▪</g> but God; and where it is expreſt</l>
+               <l>The <hi>Engliſh</hi> ſuffer'd, or ſuch ſeats did doe</l>
+               <l>
+                  <hi>Proteſtants</hi> I mean; <hi>Engliſh</hi> and <hi>Scotch</hi> too,</l>
+               <l>Who <hi>Brittiſh</hi> are; for diff'recne I make none</l>
+               <l>Between them, in any Service that's done</l>
+               <l>For if I ſhould, <hi>Mountroes</hi> brave Army then</l>
+               <l>VVould be forgott; who were deſerving Men</l>
+               <l>Epiſcopants, and Presbyterians</l>
+               <l>Independants and ſuch Sectarians</l>
+               <l>I give the Name of <hi>Protestants,</hi> to all</l>
+               <l>That joyn'd, againſt thoſe that wee Papiſts call</l>
+               <l>Nor was the Conqueſt made<g ref="char:punc">▪</g> by Cavaliers</l>
+               <l>Alone; Nor yet by the Parliamenteers:</l>
+               <l>The Earl of <hi>Ormond,</hi> Noble was ith' warre</l>
+               <l>And ſo was <hi>Inchyquin;</hi> who went as farre</l>
+               <l>In danger, for the time they both Commanded</l>
+               <l>As any men, could doe till <hi>Cromwell</hi> Landed.</l>
+            </lg>
+            <lg>
+               <l>Now when he came (to give the <hi>Deel</hi> his due)</l>
+               <l>In <hi>Ireland</hi> he praiſe-worthy was; though true</l>
+               <l>It is, for all his Acts, in <hi>England</hi> done</l>
+               <l>Againſt both Kings, the Father, and the Son</l>
+               <l>I count him baſe: But here ſome one may ſay</l>
+               <l>His <hi>Iriſh</hi> Service too's, condemn'd this day:</l>
+            </lg>
+            <lg>
+               <l>Well if it be, (I think) 'tis without cauſe</l>
+               <l>For <hi>Ireland</hi> then, was in the very Jawes</l>
+               <l>Of Death, and had been ſwallow'd up, no doubt</l>
+               <l>It the <hi>Iriſh,</hi> then had not got the Rout.</l>
+            </lg>
+            <lg>
+               <l>But 'twas not He, nor his Army did all</l>
+               <l>The Service, that was ſince done: as I ſhall</l>
+               <l>
+                  <pb n="11" facs="tcp:100904:6"/>Now make appear: for then, brave Sir <hi>Charles Coot</hi>
+               </l>
+               <l>Had been exempt, who ſo Nobly ſtood too't</l>
+               <l>Maintaining of the Common cauſe; Gods juſt</l>
+               <l>Revenge againſt Murther; whoſe very duſt</l>
+               <l>I honour, who in's Fathers ſtepps ſo trod</l>
+               <l>As to the Rebells, was the Scourge, or Rod</l>
+               <l>Of the Almighty: He (by good adviſe)</l>
+               <l>Did kill the Nitts, that they might not growe Lice</l>
+               <l>The Lord of <hi>Broghill</hi> too, herein ought not</l>
+               <l>Amongſt the VVorthyes, once to be forgott.</l>
+               <l>Generall <hi>Iones, Reignolds,</hi> and many more</l>
+               <l>Brave things in <hi>Ireland</hi> did, but (as before</l>
+               <l>I ſaid) Theſe were Inſtruments; now the praiſe</l>
+               <l>To God alone, let us returne alwayes.</l>
+            </lg>
+            <lg>
+               <l>And left that <hi>Teige</hi> ſhould ſay, He, for the King</l>
+               <l>Did fight (which to me is a hatefull thing)</l>
+               <l>And pretend, that theſe Worthyes, were his Fees</l>
+               <l>My mind, and conſcience, I will now diſcloſe</l>
+               <l>I think, they ſerved God, the King; and State</l>
+               <l>That were moſt Active, in breaking <hi>Teigs</hi> pate,</l>
+               <l>Nay more I ſay; I think <hi>Broghil,</hi> an <hi>C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot</hi>
+               </l>
+               <l>Againſt the King, never lift hand, or foot</l>
+               <l>Whereas, the <hi>Iriſh</hi> Rebel-like, ran out</l>
+               <l>Againſt the King, and Law: and meant (no doubt)</l>
+               <l>To ſett the <hi>Pope</hi> above his head, whoſe right,</l>
+               <l>Before the Kings, they did preferre, in ſpight.</l>
+            </lg>
+            <lg>
+               <l>Could ever they, then (though deceitfully</l>
+               <l>They ſeem'd reform'd) have claime to Loyalty</l>
+               <l>I anſwer nay: God would not them permitt</l>
+               <l>To goe unpunniſh'd, for all their ſubtile witt</l>
+               <l>They vs'd: when vanquiſh'd, and quite overcome</l>
+               <l>Then <hi>Teige,</hi> is for the King forſcoth: for whome</l>
+               <l>They Baniſh'd were, and with him were partakers</l>
+               <l>In ſufferings, impos'd by his forſakers.</l>
+            </lg>
+            <lg>
+               <pb n="12" facs="tcp:100904:7"/>
+               <l>No<g ref="char:punc">▪</g> they did the King much wrong: and great harmes</l>
+               <l>Pretending, for his right they took up Armes</l>
+               <l>Yet<g ref="char:punc">▪</g> was not able him for to reſtore</l>
+               <l>No: that's a worke for thoſe I nam'd before</l>
+               <l>
+                  <hi>Broghil,</hi> and <hi>Coot,</hi> with the <hi>Iriſh</hi> Brigade</l>
+               <l>(So call'd) with <hi>Monke,</hi> their helping hands ſo lay'd</l>
+               <l>That after ſubduing the Rebells here</l>
+               <l>His Majeſty in Peace, they brought in clear</l>
+               <l>And re-eſtabliſhed him, in his Throne</l>
+               <l>O're whome on Earth Superiour ther's none<g ref="char:punc">▪</g>
+               </l>
+               <l>All this premis'd, the Rebells vanquiſh'd quite</l>
+               <l>Fairly in Field, the Remnant put to flight</l>
+            </lg>
+            <lg>
+               <l>Thus <hi>Ireland</hi> was reduc'd: But letts ſee how</l>
+               <l>Our gallant Soldiers are requited now</l>
+               <l>And whether they that have eſcap'd their Graves</l>
+               <l>By their own Countrey men are not made ſlaves</l>
+               <l>And firſt I will begin with thoſe (they ſay)</l>
+               <l>Did <hi>Cromwell</hi> ſerve, who for Arrears of pay</l>
+               <l>Had land ſect out to them in ſatisfaction:</l>
+               <l>You'd think them well: But truth is no detraction<g ref="char:punc">▪</g>
+               </l>
+               <l>Some private Soldiers, were by their Commanders</l>
+               <l>Chous'd of their Land, and Pack'd away to <hi>Flanders</hi>
+               </l>
+               <l>And he that would not goe, but thought to ſtay</l>
+               <l>And live on's Land, they ſound another way</l>
+               <l>To make him weary of it, by Law Suits</l>
+               <l>Againſt him to commence, whereby the fruits</l>
+               <l>Of all his hopes, his labour, and his Land;</l>
+               <l>He ſpends at Law, his Capraine to withſtand</l>
+               <l>VVeary'd at Law, to purchaſe Peace, at laſt</l>
+               <l>He ſells his Land; and then that danger's paſt<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>Now while his money la<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts, or ſome ſhort ſpace</l>
+               <l>His Captaine makes him Seargeant of that place</l>
+               <l>But this nere holds for he with Cap in hand</l>
+               <l>To's Captaines wife at all turnes cannot ſtand.</l>
+               <l>
+                  <pb n="13" facs="tcp:100904:7"/>Nor can he, <hi>Iriſh</hi> ſpeake to buy and ſell</l>
+               <l>Nor tennants, can procure with them to dwell</l>
+               <l>Then out hee's turn'd, and in comes <hi>teige,</hi> in's roome</l>
+               <l>VVhoſe double diligence, like a new Broome</l>
+               <l>Sweeps all clean: is juſt toth' Captaines mind</l>
+               <l>VVhat e're, his Maſter ſayes, hee'l ſwear: ſo kind</l>
+               <l>Beſides, he proves toth' Children, of his Maſter</l>
+               <l>That, when the Maid chides them, he ſwears hee'l baſt<g ref="char:EOLhyphen"/>her</l>
+               <l>VVith, <hi>Vo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rneen glagal,</hi> and <hi>Agra the crea</hi>
+               </l>
+               <l>He takes his Maſters Son upon his knee</l>
+               <l>And <hi>Streap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h granah,</hi> learns the Child, to call</l>
+               <l>the Maid, <hi>Buddah a Man,</hi> adding <hi>taw Brawl:</hi>
+               </l>
+               <l>And then, <hi>teige</hi> laughs and ſweares by's <hi>goſſips hand</hi>
+               </l>
+               <l>His <hi>Fathers ſon's,</hi> the beſt in all <hi>Ireland</hi>
+               </l>
+               <l>Thus filthy words, are taught the child in's Cradle</l>
+               <l>Which ſeldome are left off, when come toth' Saddle</l>
+            </lg>
+            <lg>
+               <l>This pleaſes ſo the Mother of the child</l>
+               <l>that, all <hi>teig</hi> does, is well: ſhe's ſo beguil'd</l>
+               <l>VVith flattering, that now <hi>Teigs</hi> wife muſt Nurſe</l>
+               <l>The next Child ſhe ſhall have: <hi>Teige</hi> ſweares his purſe</l>
+               <l>Shall be the Childs; Now, hee's a <hi>Foſterfather</hi>
+               </l>
+               <l>Not for his own, but for this Child hee'l gather</l>
+               <l>Hee'l give the Child, a <hi>Coat I Bawn,</hi> of Bandle</l>
+               <l>And buy it, <hi>Erogel gaulda,</hi> and then dandle</l>
+               <l>The babe in's Armes, crying <hi>ſhane Poge, Cade Poge</hi>
+               </l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ic a me Vaiſter, Nab <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ouſa Shane Oge?</hi>
+               </l>
+               <l>
+                  <hi>Yo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tow Lawnah:</hi> This pleaſes, more and more</l>
+               <l>
+                  <hi>Teigs</hi> now of Kin that was not ſo before.</l>
+            </lg>
+            <lg>
+               <l>VVho now but <hi>Teige?</hi> His counſel ſo prevailes,</l>
+               <l>That all the <hi>Engliſh</hi> Servants, by his tales</l>
+               <l>Are threatned to be turn'd away: his Cozins</l>
+               <l>Come flocking round about him, by whole dozens</l>
+               <l>
+                  <hi>Donnough</hi> the groome ſteps in, in <hi>Richards</hi> place</l>
+               <l>And <hi>Sbevane Oge,</hi> doth turne out gentle <hi>Grace</hi>
+               </l>
+               <l>
+                  <pb n="14" facs="tcp:100904:8"/>Then <hi>Gilla Patrick, Hugh,</hi> and the <hi>Mac Roryes</hi>
+               </l>
+               <l>Are ſent for home, who're out amongſt the Toryes</l>
+               <l>VVith them their Morter-pieces: <hi>Owna, Sive</hi>
+               </l>
+               <l>And <hi>Moar</hi> great beaſtly Drones; creep intoth' Hive</l>
+               <l>VVho ſo bewitch the Captaine and his wife</l>
+               <l>That theſe muſt be <hi>Followers,</hi> all their life.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Engliſh</hi> Neighbours (undegenerate)</l>
+               <l>Theſe Furies cauſe their <hi>Fosterer</hi> to hate.</l>
+               <l>Do Treſpaſs on their land, and drive to Pound</l>
+               <l>The honeſt mens Cattle, off their own ground</l>
+               <l>To Law they goe, now all things ſute in fitnes</l>
+               <l>And Right or wrong, <hi>Teige</hi> is the Captaines Witnes<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>But may we think that <hi>Teige</hi> and his ſalſe Crue</l>
+               <l>To their <hi>Fosterer,</hi> will alwayes prove true?</l>
+               <l>No: you may ſweare it; for<g ref="char:punc">▪</g> what's bred ith' bone</l>
+               <l>Will not out of the fleſh, when all is done.</l>
+               <l>'Tis knowne too well, in Ages paſt, how they</l>
+               <l>Behav'd themſeves in peace; and how ith' day</l>
+               <l>Of warre, their friendſhip, was but feing'd, in peace</l>
+               <l>VVhich gave them great advantage, to encreaſe</l>
+               <l>Rebellions: Then, would ſhew their Cruelty</l>
+               <l>To Goſſips, and their Foſterers: and why</l>
+               <l>Should any think, that theſe, who are the ſeed</l>
+               <l>And offspring, of a Murdrous Bloudy breed</l>
+               <l>Be otherwiſe than they? Had theſe but power</l>
+               <l>Both Root and Branch, of <hi>Engliſh</hi> in one houre</l>
+               <l>They would deſtroy: are wee not <hi>Hereticks?</hi>
+               </l>
+               <l>Say they, and was not that one oth' old tricks</l>
+               <l>Their Prieſts did uſe, to ſtirre them to Sedition</l>
+               <l>And Proteſtants to kill, would they not give Co<g ref="char:cmbAbbrStroke">̄</g>miſſion<g ref="char:punc">▪</g>
+               </l>
+               <l>Yea: Would they not abſolve; the breach of Oathes</l>
+               <l>'Gainſt King, and State: their Church, &amp; Pope ſo loathe</l>
+               <l>A Proteſtant? Their <hi>Anti-Christian</hi> Spirit</l>
+               <l>Bi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'s Murther us, and Saints them too for <hi>Merit</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="15" facs="tcp:100904:8"/>
+               <l>What confidence in oathes, then may we have,</l>
+               <l>Of Papiſts taken, I would of you crave?</l>
+               <l>Do wee not ſee, It is their chief Ambition</l>
+               <l>Amongſt the Proteſtants to make Diviſion?</l>
+               <l>'Twas they, invented names, of Separation</l>
+               <l>In our Religion: which by imitation</l>
+               <l>Of them (for diſtinction ſake) wee did vſe;</l>
+               <l>But in the Tract of time, did ſo abuſe</l>
+               <l>Our friends, that at length, they were held as Brands</l>
+               <l>Of infamy: and weakned ſo our hands</l>
+               <l>That amongſt Proteſtants, grew as much ſtrife</l>
+               <l>As Papiſts e're could wiſh: except the Life</l>
+               <l>Of ev'ry one, that did not goe to Maſſe</l>
+               <l>VVhereat they only aim'd to bring to paſſe</l>
+               <l>For when diſtinction was, 'twixt Old and New</l>
+               <l>Proteſtants then ſuch hatred grew</l>
+               <l>As if <hi>Turks<g ref="char:punc">▪</g> Iewes,</hi> and Infidels combin'd</l>
+               <l>Had been byth'ears, for what each one deſign'd,</l>
+               <l>And 'twixt the ſtanding Army and disbanded</l>
+               <l>Grew jealouſyes, which was the better Landed</l>
+               <l>They cauſ'd the <hi>Forty nine</hi> for to ſuſpect</l>
+               <l>The <hi>Fifty three,</hi> as though through their neglect</l>
+               <l>They was not ſatisfy'd with them: that they</l>
+               <l>Remember might, their Chriſtmas-box this day</l>
+               <l>And I believe nothing hath drawne a Curſe</l>
+               <l>On <hi>Engliſh</hi> New Int'reſts, or proved worſe</l>
+               <l>Than that the <hi>Forty Nine</hi> had no Arrears</l>
+               <l>VVho ſerved faithfully, in want Eight yeares</l>
+               <l>Againſt the Common foe: which thing reflects</l>
+               <l>On the Eſtates now, of the greedy Sects.</l>
+               <l>Nor is it mended yet, ſince private men</l>
+               <l>That well deſerv'd, are now deceiv'd againe</l>
+               <l>By their own Officers; pretending they</l>
+               <l>Of <hi>Cromnell</hi> ſince had Arreares of their pay</l>
+               <l>
+                  <pb n="16" facs="tcp:100904:9"/>Yet many of them, never ſince did ſerve</l>
+               <l>And thoſe that did; they muſt do ſo or ſtarve<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>But 'tis all one, <hi>Cromwell</hi> and <hi>Forty Nine</hi>
+               </l>
+               <l>Thoſe private Soldiers Arreares did deſigne</l>
+               <l>Sould ne're be pay'd: God grant it prove no Rott</l>
+               <l>To the Eſtates the Officers have gott</l>
+            </lg>
+            <lg>
+               <l>Againe Betwixt the Old and New Intreſt</l>
+               <l>To move Law, Hath not <hi>Teige</hi> done his beſt?</l>
+               <l>In brief they'd hand in all the hurt was done</l>
+               <l>Amongſt the <hi>Engliſh,</hi> ſince the world begun</l>
+            </lg>
+            <lg>
+               <l>But here ſome may object, that the whole Nation</l>
+               <l>Of <hi>Iriſh</hi> to this Charge, has no relation.</l>
+               <l>For ſome, have prov'd their Innocence ſo cleare</l>
+               <l>
+                  <hi>As</hi> 'tis not fit to criminate them here,</l>
+               <l>And others have been faithfull all the warrs,</l>
+               <l>VVhoſe bodyes can their valour ſhew by Scarres.</l>
+            </lg>
+            <lg>
+               <l>All this is granted; but oth firſt, I ſay</l>
+               <l>One in ten thouſand, is the moſt that may</l>
+               <l>Be ſo ſuppos'd: whoſe <hi>Constant good affiction</hi>
+               </l>
+               <l>Did prove: though others (Living in <hi>Protection</hi>
+               </l>
+               <l>Durſt not run forth) Penn'd up ith' <hi>Engliſh</hi> Quarters</l>
+               <l>Did Newters ſtand, who feared to dye <hi>Martyrs</hi>
+               </l>
+               <l>As ſome, would bragg, they did (who had betray'd</l>
+               <l>The place they liv'd in) when ſuff'rers were made</l>
+               <l>And for the laſt, though <hi>Iriſh</hi> by <hi>Extraction</hi>
+               </l>
+               <l>I count them <hi>Engliſh</hi> for that very action.</l>
+            </lg>
+            <lg>
+               <l>This anſwer'd thus, another may againe</l>
+               <l>Object: what though the <hi>Iriſh</hi> did in vaine</l>
+               <l>Their own Religion ſtrive for to advance<g ref="char:punc">▪</g>
+               </l>
+               <l>They had Preſident for it our of <hi>France.</hi>
+               </l>
+               <l>But being overcome; ſhould Cruelty</l>
+               <l>Be meaſur'd back to them? that I deny<g ref="char:punc">▪</g>
+               </l>
+               <l>And leave to him, who ſaid, <hi>Vengeance is Mine</hi>
+               </l>
+               <l>
+                  <hi>I will repay:</hi> To whom let us confine<g ref="char:punc">▪</g>
+               </l>
+               <l>
+                  <pb n="17" facs="tcp:100904:9"/>Our ſelves: yet while we thus reſolve, ſhall we</l>
+               <l>Vnto our Countreymen, ungratefull be?</l>
+               <l>In ſhewing <hi>Mercy,</hi> forget to be juſt,</l>
+               <l>Preferre our Foes, before our friends and thruſt</l>
+               <l>The Proteſtants, that help'd us in our need</l>
+               <l>Out of Imployments, Papiſts put in ſtead?</l>
+               <l>I anſwer, Nay: For that there is no reaſon.</l>
+               <l>Ye don't we ſee 'tis juſt ſo at this ſeaſon</l>
+            </lg>
+            <lg>
+               <l>Begin at <hi>Dublin,</hi> the chief Regal City</l>
+               <l>And mark how squares goe there (the more's the pitty)</l>
+               <l>Though <hi>Engliſh,</hi> be the Judges, <hi>Iriſh</hi> Clarkes</l>
+               <l>Do there abound, VVith confidence like sparks</l>
+               <l>Oth' world they Domineer: and who but they?</l>
+               <l>VVith Cap in hand to them, brave Soldiers pray</l>
+               <l>Ith' Court they will be ſeen; But goe to Church</l>
+               <l>There <hi>Teige</hi> and <hi>D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rmot</hi> leaves you in the Lurch.</l>
+               <l>In <hi>Customes, Excize,</hi> Offices for <hi>Cloath</hi>
+               </l>
+               <l>
+                  <hi>Leather, Meaſures, Chimneys</hi> and to ſay troth</l>
+               <l>In all <hi>Money-matters,</hi> they are <hi>Projectors</hi>
+               </l>
+               <l>And moſt on end imploy'd to be <hi>Collectors</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Let's down into the Countrey come and ſee</l>
+               <l>How all things there do goe, whoſ'ever be</l>
+               <l>High Sherif an <hi>Iriſh</hi> man is the Under</l>
+               <l>Then for the Bayliffs to be ſo's; no wonder</l>
+               <l>
+                  <hi>Apparatours</hi> ith' Biſhops Court who're they?</l>
+               <l>But <hi>Iriſh:</hi> and VVho are Atturney's pray?</l>
+               <l>And <hi>Proctours,</hi> are not they the very men?</l>
+               <l>For one <hi>Engliſh,</hi> of them is there not ten?</l>
+            </lg>
+            <lg>
+               <l>Is not the Army ſtuff'd, with ſuch like traſh</l>
+               <l>They're <hi>Ala mode de France,</hi> each one with's <hi>Sw</hi>
+               </l>
+               <l>A dirty <hi>Crevate,</hi> or a Fox-Furre <hi>Mufſ</hi>
+               </l>
+               <l>And ſome of them brave fellows are in Buffe</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ooted</hi> and <hi>Spurr'd,</hi> have caſt off their old <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>roges</hi>
+               </l>
+               <l>And wear great <hi>Breeches,</hi> that were <hi>Trowz'd</hi> like Rogues</l>
+               <l>VVith <hi>Vest</hi> and <hi>Tunicke,</hi> ſtead of <hi>Blew Frize Je<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kin</hi>
+               </l>
+               <l>Can now tell tales of <hi>Madam</hi> and her Rhyme toot—<hi>Merkin</hi>
+               </l>
+               <l>
+                  <pb n="18" facs="tcp:100904:10"/>An <hi>Iriſh</hi> man was ſeen in dayes of Old</l>
+               <l>But with a <hi>Skean,</hi> while now wee do behold</l>
+               <l>Him with a <hi>Rapier</hi> or a good <hi>Back sword</hi>
+               </l>
+               <l>A croſſe his Arſe, with <hi>Damme at</hi> ev'ry word.</l>
+               <l>Theſe are the Propps that now ſupport this Nation</l>
+               <l>God grant they hold if e're come alteration,</l>
+            </lg>
+            <lg>
+               <l>All things thus order'd makes the <hi>Engliſh</hi> poore</l>
+               <l>And poorer needs muſt be, while they're crow'd o're</l>
+               <l>By e'vry <hi>Snap:</hi> For th'<hi>Iriſh</hi> wait upon</l>
+               <l>Our Gentry, where they do but keep a man.</l>
+            </lg>
+            <lg>
+               <l>Now here (perhaps) ſome would themſelues excuſe</l>
+               <l>'Tis not for love, they do the <hi>Iriſh</hi> uſe</l>
+               <l>In all Imployments, ſpoken of before,</l>
+               <l>But cauſe their konwledge is therein farre more</l>
+               <l>Than <hi>Engliſh</hi> have: But I ſay that ſurmiſe</l>
+               <l>Is falſe, and won't paſs Muſter, with the wiſe,</l>
+               <l>VVho know the little skill the <hi>Iriſh</hi> have</l>
+               <l>They learn'd it of the <hi>Engliſh;</hi> yet none (ſave</l>
+               <l>Some few of them) that are in any art</l>
+               <l>Their Crafts-Maſters: although for th'botching part</l>
+               <l>Degenerate <hi>Engliſh,</hi> and their own Nation</l>
+               <l>Will them imploy, 'gainſt which there's no perſwaſion</l>
+            </lg>
+            <lg>
+               <l>And here againe (methinks) I heare ſome grumbling</l>
+               <l>Againſt my laſt Aſſertion; and much mumbling</l>
+               <l>Concerning Scholarſhip: all Uulgar mouths</l>
+               <l>Are open<g ref="char:punc">▪</g> affirming this Countrey youths</l>
+               <l>In Latinc farre exceed our <hi>Engliſh</hi> who</l>
+               <l>Feigne Common conſent: gave them long agoe</l>
+               <l>Preheminence, For School-Maſters therefore</l>
+               <l>They will have <hi>Iriſh:</hi> oh! who, than we, more</l>
+               <l>Stupid? Good God! ſince this, ſo long hath paſt</l>
+               <l>For Currant with moſt men, now at the laſt,</l>
+               <l>Help my blunt quill, and my duller braine</l>
+               <l>Theſe fooliſh dreames, and fictions to reſtraine</l>
+               <l>
+                  <pb n="19" facs="tcp:100904:10"/>Amongſt my Countreymen: open their eyes</l>
+               <l>And let them ſee, what they believ'd were lyes</l>
+               <l>Remove that plague, which doth ſo many ſeize-on</l>
+               <l>And grant, they may at length be rul'd by reaſon.</l>
+            </lg>
+            <lg>
+               <l>I ſay of Learning the <hi>Iriſh</hi> may not boaſt</l>
+               <l>For any thing yet ſeen in all their Coaſt</l>
+               <l>No Art, or Science, have have they yet found out</l>
+               <l>No Treatiſe of Religion, and I doubt</l>
+               <l>No Hiſtory: or good Romance worth reading</l>
+               <l>VVas yet by any of them writt, and ſpreading</l>
+               <l>In any part oth'world: what they doe call</l>
+               <l>Philoſophy (wherein their boaſt's not ſmall</l>
+               <l>Is skill in Sophiſtry: wherewith to wrangle</l>
+               <l>They are well verſt who do ſor Trifles Iangle</l>
+               <l>And with a Pack of learned Cow-boys they</l>
+               <l>May with the world compare: none ſayes them Nay</l>
+               <l>On th'other ſide, VVhole Volumes, <hi>Engliſh</hi> works</l>
+               <l>through Chriſtendom havegone: yea'mongſt the <hi>Turks</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>'Tis true, ſome <hi>Iriſh</hi> ſpeak good Latine: though</l>
+               <l>The moſt of their Schoolmaſters do not ſo</l>
+               <l>But none of them can ſpeak one word of <hi>Greek</hi>
+               </l>
+               <l>or <hi>Hebrew;</hi> in thoſe tongues they are to ſeek</l>
+               <l>VVhere all the <hi>Engliſh</hi> that do bear the name</l>
+               <l>of Scholars; are good linguiſts in the ſame.</l>
+               <l>And ſuch as through the Gramar ſcarſe have read</l>
+               <l>In <hi>England,</hi> are Doctours to them here bred.</l>
+               <l>The <hi>Padagog<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es</hi> here cry'd up <hi>Humanists</hi>
+               </l>
+               <l>May bluſh (if ſhame they had, to come ith'Liſts</l>
+               <l>Of our half-Gramarians; All but the blind</l>
+               <l>And obſtinate, this truth can eaſ'ly find.</l>
+            </lg>
+            <lg>
+               <l>Nothing hath done more hurt toth'<hi>Engliſh</hi> Nation</l>
+               <l>Than <hi>Iriſh</hi> Schoolmaſters by all relation</l>
+               <l>The <hi>Foſterer,</hi> the babes, the Schools the youth,</l>
+               <l>Do <hi>Engliſh</hi> turn to <hi>Irish:</hi> of a truth</l>
+               <l>
+                  <pb n="20" facs="tcp:100904:11"/>Their Speech, and Manners, are corrupted ſo</l>
+               <l>That <hi>Mongrell-English</hi> may for <hi>Irish</hi> goe</l>
+               <l>As in all Ages paſt, they had an hand</l>
+               <l>In all <hi>Rebellions</hi> hatch'd within this Land</l>
+               <l>So will they ſtill, it much is to be doubted</l>
+               <l>Ioyne with the <hi>Irish;</hi> if they be not Routed</l>
+               <l>For many of them, who were well to paſſe</l>
+               <l>From Church have lately turn'd: now go to Maſſe,</l>
+               <l>So then the <hi>Nurſe, Schoolmaster,</hi> and the <hi>Prieſt</hi>
+               </l>
+               <l>Doe <hi>foſter, Teach</hi> and <hi>Preach</hi> up <hi>Antichriſt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Cannons of the Engliſh Church forbid</l>
+               <l>Such Schoolmaſters; yet of them wee're not rid</l>
+               <l>And divers Statutes were in <hi>Ireland</hi> made</l>
+               <l>Againſt them, Foſtering and Prieſts, now layd</l>
+               <l>Behind the backs of ſuch as rule the roſt</l>
+               <l>For 'mongſt the Great ones they're conniv'd at moſt</l>
+               <l>Though ſome of them are free from Imputation</l>
+               <l>Of ſuch like deeds, It is my chief perſwaſion</l>
+            </lg>
+            <lg>
+               <l>Some Juſtices of Peace for their owne ends</l>
+               <l>To my own knowledge have beſpoke their friends</l>
+               <l>To ſend their Children to an IriſhMaſter</l>
+               <l>A Papiſt, and but a Gramaticaſter</l>
+               <l>And ſeded him within an Engliſh towne</l>
+               <l>VVherein were Engliſh SchoolMaſters, and downe</l>
+               <l>Have voted them; whoſe skill (if not exceed)</l>
+               <l>Did equall his: of whom there was no need</l>
+               <l>Vnleſs it were to teach an Iriſh ſmack</l>
+               <l>To ſuch as did it in their Engliſh lack.</l>
+            </lg>
+            <lg>
+               <l>This ill Example gave occaſion to</l>
+               <l>The Common people for the like to doe</l>
+               <l>And by ſuch means the Bread is ta'ne away</l>
+               <l>Out of the Engliſh mouths, now at this day</l>
+               <l>A good requitall, for their comeing o're</l>
+               <l>Soldiers into this Land: and it is more</l>
+               <l>
+                  <pb n="21" facs="tcp:100904:11"/>Than Probable, 'twill prove an Invitation</l>
+               <l>To other <hi>Engliſh,</hi> for planting of this Nation</l>
+            </lg>
+            <lg>
+               <l>Shibboleth. <hi>Iephthah</hi>'s word recorded ſtands</l>
+               <l>Which try'd the Rebell <hi>Ephraimites,</hi> whoſe bands</l>
+               <l>Were ſcatterd, when Forty and two thouſand</l>
+               <l>At <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ordan,</hi> Paſſages fell by his hand</l>
+               <l>Though they themſelues <hi>Ephraimites</hi> deny'd</l>
+               <l>By <hi>Sibboleth</hi> pronouncing they're deſcry'd.</l>
+               <l>So here I ſay the tongue will ſoon diſcover</l>
+               <l>Which is the man that is an <hi>Iriſh</hi> lover</l>
+               <l>Bid him but ſay, This thing in Mouth A Third</l>
+               <l>Hee'l fairly ſay, <hi>Dis Ting</hi> in <hi>Mout</hi> A <hi>Tird.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Some ſay the water of St. <hi>Patricks</hi> well</l>
+               <l>When <hi>Engliſh</hi> drink thereof, like to a Spell</l>
+               <l>By Magick Art procur'd makes them forgetfull</l>
+               <l>Of <hi>Engliſh</hi> Manners: others hold deceitfull</l>
+               <l>Is the <hi>Iriſh</hi> Clime transforming Mens minds</l>
+               <l>Toth' Countrey Cuſtoms, turning with all winds</l>
+               <l>But not the <hi>Water,</hi> nor the <hi>Iriſh</hi> Clime</l>
+               <l>Have pow'r o're Noble minds Spirits ſublime</l>
+               <l>Contemne the Elements: there's no mutation</l>
+               <l>VVith them, Nor ſubject are to alteration.</l>
+            </lg>
+            <lg>
+               <l>'Tis he who hath an evil eye, whoſe mind</l>
+               <l>Is not with Vertue but full fraught with wind</l>
+               <l>And ſuch as place their chiefeſt happineſſe</l>
+               <l>In things below the Sun<g ref="char:punc">▪</g> whoſe thoughts are leſſe</l>
+               <l>To be good than great faine would have excuſes</l>
+               <l>For unjuſt actions: and father abuſes</l>
+               <l>Done to their Neighbours on the land or water</l>
+               <l>VVhen their baſe hearts are guilty of the matter<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>He well obſerv'd in writing <hi>Irelands</hi> Story<note place="margin">
+                     <hi>Sir</hi> Iohn <hi>Davies</hi>
+                  </note>
+               </l>
+               <l>Since firſt the <hi>Engliſh</hi> Conquer'd it the (the glory</l>
+               <l>VVhereof he gave to <hi>Strongbows</hi> Martiall hand</l>
+               <l>VVho then made <hi>Englands</hi> King Lord of this Land)</l>
+               <l>
+                  <pb n="22" facs="tcp:100904:12"/>How that the great Eſtates ſome Chieftaines had</l>
+               <l>VVithin three Ages, made them prove as bad</l>
+               <l>Or worſe than the <hi>Wild-Iriſh</hi> were before</l>
+               <l>For they did much oppreſs, and Lord it o're</l>
+               <l>Their followers, that help'd them for to gaine</l>
+               <l>The Countrey: So that theſe poore ſouls were faine</l>
+               <l>For <hi>England,</hi> from their Tyranny to flye</l>
+               <l>Here quitting their Eſtates, when by and by</l>
+               <l>Broke forth Rebellions; for the ſtrongeſt hand</l>
+               <l>was all the Law they would have in this Land.</l>
+            </lg>
+            <lg>
+               <l>Then <hi>England</hi> would be forc'd againe to ſend</l>
+               <l>More Men to make new Conqueſts, and defend</l>
+               <l>The <hi>Title,</hi> which to <hi>Ireland</hi> it did claime</l>
+               <l>For the firſt Conquerers, were ſcarce in name</l>
+               <l>
+                  <hi>Engliſh;</hi> Degenerating ſo in manners</l>
+               <l>That they did March under the Rebells Banners</l>
+               <l>And it was harder to ſuppreſs that crewe</l>
+               <l>Than the <hi>Wild Iriſh;</hi> who was beat by few.</l>
+            </lg>
+            <lg>
+               <l>Nay 'tis ſuppos'd the Major part this day</l>
+               <l>Of <hi>Iriſh,</hi> are but Mongrells ſuch as they</l>
+               <l>For many of Queen <hi>Elizabeths</hi> men</l>
+               <l>In theſe laſt Warres were Rebells, But 'tis ten</l>
+               <l>To one, that they were Papiſts, or my life</l>
+               <l>For it, they Marry'd had an Iriſh wife</l>
+               <l>Which were grand Cauſes of degeneration</l>
+               <l>Ever obſerv'd to happen in this Nation.</l>
+            </lg>
+            <lg>
+               <l>'Twas not for want of wholſome Laws ſtill made</l>
+               <l>So long it was e're <hi>Ireland</hi> could be ſaid,</l>
+               <l>To be an <hi>Engliſh</hi> Plantation: but 'cauſe</l>
+               <l>There wanted Execution of thoſe Laws</l>
+               <l>For, had Oppreſſion been but peep'd into</l>
+               <l>The meaner ſore had liv'd here as they doe</l>
+               <l>In <hi>England,</hi> where Yeomen, and Tradeſmen dare</l>
+               <l>Demand their debts oth' beſt not ſtanding bare</l>
+               <l>
+                  <pb n="23" facs="tcp:100904:12"/>And if the ſtatutes againſt Foſterers</l>
+               <l>And thoſe made, againſt Iriſh, SchoolMaſters</l>
+               <l>And Prieſts, had been obſerv'd: this Land had then</l>
+               <l>Been well planted, with perfect <hi>Engliſh</hi> men</l>
+               <l>Such as to flatter, are aſham'd: or turne</l>
+               <l>From <hi>Engliſh</hi> principles, would ſooner burne</l>
+               <l>VVho love their Countrey ſpeech, bee't ne're ſo broad</l>
+               <l>Beyond an <hi>Iriſh</hi> Tone: though their abode</l>
+               <l>Be in the Countrey, chuſe to be untarght</l>
+               <l>Rather than learn'd (eſteeming that ſo naught)</l>
+               <l>If none but <hi>Iriſh</hi> Teachers they can have</l>
+               <l>They'd Latine Jack their Native tongue to ſave</l>
+               <l>And rather than marry an <hi>Iriſh</hi> wife</l>
+               <l>VVill Batchellers remain for tearme of life</l>
+               <l>And for Religion, had rather than Papiſts</l>
+               <l>Be any thing: the Heathens and meer Athiſts</l>
+               <l>Did never hold, To Murther men was Juſt</l>
+               <l>Becauſe, not of their Sect. As Papiſts muſt</l>
+               <l>Believe: to kill an Heretick is Merit</l>
+               <l>Monſters in Nature! that's their Divliſh Spirit<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>The Engliſh Cuſtom's, not to put to Nurſe</l>
+               <l>Their Children, untill Gold have fill'd their purſe</l>
+               <l>Or eſſe the Mother can't give ſuck, and then</l>
+               <l>They claime no Foſter-kindred, being Men</l>
+               <l>Nor are they Foſter'd up in Idlenes</l>
+               <l>Although, their Parents do great wealth poſſeſſe</l>
+               <l>But they do bring them up at ſuch a rate</l>
+               <l>As is moſt ſutable, to their Eſtate</l>
+               <l>Some, ſhall their Youth at Schoole and Colledge ſpend</l>
+               <l>Others, at Inns of Court, their Studies end</l>
+               <l>Some go to Trades, others their Stately Teams</l>
+               <l>Are wont to drive: VVhilſt here all's in extreames</l>
+               <l>A <hi>Gentleman</hi> or <hi>Churle, Scholar</hi> or <hi>Cowboy</hi>
+               </l>
+               <l>No Trade but <hi>Merchant</hi> ſerves for ev'ry <hi>Plow-boy.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="24" facs="tcp:100904:13"/>
+               <l>Hee that can reckon but his Pedegree<g ref="char:punc">▪</g>
+               </l>
+               <l>Twenty deſcents from a Gentleman, Hee</l>
+               <l>I ſay as a poor <hi>gentleman</hi> will beg</l>
+               <l>All o're the Kingdome, till he hath one leg</l>
+               <l>Ith 'Grave rather than he will ſo diſgrace</l>
+               <l>His farre fetche <hi>Kindred,</hi> and their <hi>Gentile race</hi>
+               </l>
+               <l>By being of a <hi>Trade,</hi> though ne're ſo good</l>
+               <l>He will be <hi>Hang</hi>'d firſt, and not ſtain his Bloud.</l>
+            </lg>
+            <lg>
+               <l>Another Evil in <hi>Ireland</hi> we ſee</l>
+               <l>VVhich happens moſt to ſuch as Engliſh be</l>
+               <l>
+                  <hi>Farmers</hi> can't live unleſſe their VVealth be great</l>
+               <l>Or be befriended by ſome Potentate</l>
+               <l>A <hi>Freehold</hi> worth <hi>ten pounds</hi> a year's no more</l>
+               <l>To live on: than to make the owner Poor</l>
+               <l>VVho muſt attend all <hi>Seſſions</hi> and <hi>Aſſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es</hi>
+               </l>
+               <l>And <hi>Turnes</hi> and <hi>County Courts,</hi> and all devices</l>
+               <l>That may be if his land doe Bound, or's near</l>
+               <l>Any <hi>Great Mans:</hi> He dares not but be there</l>
+               <l>Or elſe hee'<hi>s Fin'd,</hi> a Quarters Rent at leaſt</l>
+               <l>That in ſhort ſpace, he ſhall not have a Beaſt</l>
+               <l>To ride on, or a Garran for to Plough</l>
+               <l>'Twas ever fo in <hi>Ireland:</hi> and ſo 'tis now:</l>
+            </lg>
+            <lg>
+               <l>Then fain hee'd ſett his Land, But who dares take it</l>
+               <l>For he muſt Sell't out right, or quite forſake it</l>
+               <l>'Cauſe this <hi>Great man,</hi> doth only aime to Ha'te</l>
+               <l>Hee <hi>Sells</hi> it to him, even at's owne Rate.</l>
+            </lg>
+            <lg>
+               <l>Then if hee's VVife, for England hee'l away</l>
+               <l>Before all's gone; where that in Peace he may</l>
+               <l>Of a ſmall Stock, or by a working hand</l>
+               <l>Live better there: than here on's <hi>Freehold Land<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To goe, or ſtay, now doubtfull is the matter</l>
+               <l>For live he can't here well, if he can't <hi>Flatter<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>And if therein, he get not the right knack</l>
+               <l>He ſhall have <hi>Teige</hi> and <hi>Dermott</hi> on his back</l>
+               <l>
+                  <pb n="25" facs="tcp:100904:13"/>With Mongrell <hi>Sheorge,</hi> and his appoſtate friends</l>
+               <l>To ſit on's skirts ('gainſt whome good Lord defend's)</l>
+               <l>Who will back-bite him, and traduce him, ſo</l>
+               <l>That though hee's poor, yet poorer he ſhall grow.</l>
+            </lg>
+            <lg>
+               <l>Ill ſed, Cloathed, and Lodg'd, the man falls ſick</l>
+               <l>And (weary of the world) cares not how quick</l>
+               <l>Death ſummons him unto the ſilent grave</l>
+               <l>VVho truſts in <hi>Christ,</hi> that he his Soul will ſave</l>
+               <l>Hee liues not long, but yet he doth ſurvive</l>
+               <l>His neighbours Charity, which he alive</l>
+               <l>Amongſt his <hi>Countreymen,</hi> long ſince ſaw dead</l>
+               <l>VVho unto <hi>Doggs,</hi> do throw the Childrens <hi>bread</hi>
+               </l>
+               <l>And wil uſe means, to ſave an Oxe, or Cow</l>
+               <l>Of their owne, but their poor Countrey-man now</l>
+               <l>They have no need of<g ref="char:punc">▪</g> for he looks for Cates</l>
+               <l>They ſay; is too fine mouth'd, and at the rates</l>
+               <l>The <hi>Iriſh</hi> de, can't live: give them Potatoes</l>
+               <l>They'l Boyle, and Roaſt, and ſtroke up their Muſta<g ref="char:EOLhyphen"/>choes</l>
+               <l>This makes them <hi>Teige</hi> employ, <g ref="char:punc">▪</g>cauſe he will ſerve</l>
+               <l>For l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe than <hi>Engliſh</hi> can; ſo they muſt ſtarve.</l>
+               <l>Thus <hi>Iriſh</hi> fare, muſt ſerve the man that labours</l>
+               <l>Which hath deſtroy'd, many poor <hi>Engliſh</hi> neighbours.</l>
+            </lg>
+            <lg>
+               <l>The honeſt man thus deed, now goes to wracke</l>
+               <l>That family<g ref="char:punc">▪</g> his widdow at her back</l>
+               <l>Getts up their youngeſt child: the reſt byth' hand</l>
+               <l>She takes and goes to him who hath much Land</l>
+               <l>(An <hi>Engliſh</hi> man ſuppoſe) and tells her grief</l>
+               <l>And for her, and the children, beggs relief<g ref="char:punc">▪</g>
+               </l>
+               <l>From thence, they ſtrike o're, to an <hi>Iriſh</hi> Village</l>
+               <l>VVhere Stacks of Corne they ſee, and ſtore of tillage</l>
+               <l>But when they're there, the people of the place</l>
+               <l>Come round about them, ſtareing in their face</l>
+               <l>And call them <hi>Clan Igauda's</hi> in diſgrace</l>
+               <l>That without Alms, from thence they trudge apace</l>
+            </lg>
+            <lg>
+               <pb n="26" facs="tcp:100904:14"/>
+               <l>Then doe they goe, to ſuch another man</l>
+               <l>Though ten miles off (if one ſuch finde they can</l>
+               <l>As was the <hi>Childrens</hi> Father) though no kin</l>
+               <l>VVith whom they doe make bold; he takes them in</l>
+               <l>And ſetts ſuch meat before them, as he eats</l>
+               <l>Condoles their caſe; and gives adviſe (not threates)</l>
+               <l>To goe for <hi>England,</hi> amongſt their owne friends</l>
+               <l>And (when refreſh'd) a Garrane to them lends</l>
+               <l>To bring them to ſome towne, with <hi>Engliſh</hi> planted</l>
+               <l>VVho have not yet forgot that they once wanted</l>
+               <l>Such men as was theſe poor ſoules Father<g ref="char:punc">▪</g> and</l>
+               <l>They make a purſe, to ſend them for <hi>England:</hi>
+               </l>
+               <l>VVhere (we ſuppoſe) they ſhall ſome comfort find</l>
+               <l>'Mongſt <hi>Christians</hi> there, who will relieve their kind</l>
+               <l>And where I leave them, ſadly to report</l>
+               <l>How our Grandees, <hi>Oppreſſe</hi> the meaner ſort</l>
+               <l>VVhich to confirm, and to make <hi>Aſſidavit</hi>
+               </l>
+               <l>I'de bring <hi>Tea thouſand,</hi> if need were to have-it<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>But now, 'cauſe this poor Man, doth perſonate</l>
+               <l>The major part oth' <hi>Engliſh:</hi> who of late</l>
+               <l>VVere Soldiers; let me not begrudge my breath</l>
+               <l>To tell how it was ſound, he came by's Death.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Crowner</hi> being call'd (one <hi>Mr, Juſtman</hi>
+               </l>
+               <l>VVhome, if I mayn't believe, I'le never truſt-man)</l>
+               <l>In pannelled a <hi>JURY,</hi> whoſe <hi>Fore-man</hi>
+               </l>
+               <l>VVas Mr. <hi>Reaſon,</hi> next him (if I can</l>
+               <l>tells name) I thinke was Mr. <hi>Look-ſharp,</hi> who</l>
+               <l>VVith three more ſuch was ſworn, and next unto</l>
+               <l>Them<g ref="char:punc">▪</g> Mr. <hi>Experience:</hi> with his Pair-Royall</l>
+               <l>And <hi>three</hi> with Mr. <hi>Tell-troth,</hi> paſſ'd oth' Tryall.</l>
+            </lg>
+            <lg>
+               <l>Firſt <hi>Reaſon</hi> he began the Corps to view</l>
+               <l>He paſſ'd byth'old wounds, and look'd about for new</l>
+               <l>But finding none; he Judged him to die</l>
+               <l>O<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Countrey-Diſeaſe,</hi> or ſome maladie</l>
+               <l>
+                  <pb n="27" facs="tcp:100904:14"/>Inward; which maſter'd had, his vitall part</l>
+               <l>And did ſuppoſe <hi>Oppreſſion</hi> went to's heart,</l>
+            </lg>
+            <lg>
+               <l>Next, <hi>Mr. Look-ſharp</hi> with his three eſpy'd</l>
+               <l>OId wounds that were on's head, and ſome <g ref="char:punc">▪</g>on's ſide</l>
+               <l>Which look'd like <hi>Cutts,</hi> &amp; <hi>Thrusts</hi> or <hi>Stals</hi> with <hi>Skeans</hi>
+               </l>
+               <l>The leaſt whereof might well have been a means</l>
+               <l>To have brought him to's end: for ſuch like Scarres</l>
+               <l>Had many Kill'd, the firſt day of the Warres<g ref="char:punc">▪</g>
+               </l>
+               <l>But 'cauſe they ſaw them whole, they paſſ'd them by</l>
+               <l>And on his meagre face, they eaſt their eye</l>
+               <l>Which did denote he had been hardly vſed</l>
+               <l>And (to ſay truth) was over much abuſed</l>
+               <l>They ſpy'd his neck to bend, his Sholders black</l>
+               <l>As if hee'd borne <hi>Oppreſſion</hi> on his back</l>
+               <l>VVhich made them judge, that gave the man his Bane</l>
+               <l>VVhereat the <hi>Corps,</hi> did (as 'twere) Sneeze againe</l>
+            </lg>
+            <lg>
+               <l>Then ſaid <hi>Experience,</hi> and his three Friends</l>
+               <l>The <hi>Countrey-Diſeaſe</hi> in three kinds extends</l>
+               <l>Itſelfe: firſt <hi>Murther,</hi> then the <hi>Blondy-<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lix</hi>
+               </l>
+               <l>Which hath conſum'd more men, by three<g ref="char:punc">▪</g> in ſix</l>
+               <l>Than did the Sword, in the late Bloudy VVarre</l>
+               <l>The laſt's <hi>Oppreſſion</hi> whereof lett's take care.</l>
+               <l>Oth' <hi>Firſt</hi> and <hi>Laſt</hi> Ireland was never free</l>
+               <l>But to the <hi>Laſt,</hi> letts Death aſcribed be.</l>
+            </lg>
+            <lg>
+               <l>At length comes <hi>tell-troth</hi> who brings up the Rear</l>
+               <l>And his companions, all ſpeak without feare:</l>
+               <l>That this man had been long ſore ſick: But never</l>
+               <l>Had any comfortable thing whatever</l>
+               <l>To cure his grief: the man was Broken-hearted</l>
+               <l>E're ſince the day, that he with his Land parted</l>
+               <l>They ſaid, he faintly ſpake on his Death-bed</l>
+               <l>Not all the <hi>Wounds</hi> he had receiv'd on's head</l>
+               <l>And in his body: Some at <hi>Knocknonoſse</hi>
+               </l>
+               <l>Some at <hi>Conmell,</hi> at <hi>Lymrick</hi> and at <hi>Roſſe</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <pb n="28" facs="tcp:100904:15"/>No nor the <hi>Bloudy Flux:</hi> but 'twas <hi>Oppreſſion</hi>
+               </l>
+               <l>That did him Kill: to God he made's Confeſſion</l>
+               <l>And did declare toth' World; it griev'd him more</l>
+               <l>To ſee the <hi>Engliſh</hi> make the <hi>Engliſh</hi> poor</l>
+               <l>Than all the hardſhips, he did e're indure</l>
+               <l>And 'twas too late then, to preſcribe him cure</l>
+               <l>Hee pray'd God to forgivetheir Sin, and turne</l>
+               <l>Their hearts: for who<g ref="char:cmbAbbrStroke">̄</g> to's Death, he needs muſt mourne</l>
+               <l>Cauſe <hi>Evil</hi> they had done for <hi>Good,</hi> and did conclude</l>
+               <l>They was moſt guilty of <hi>Ingratitude.</hi>
+               </l>
+               <l>Though 'tis but ſome <hi>Engliſh</hi> (I'le not ſay all)</l>
+               <l>Are ſo: and thoſe too now, I hope mend ſhall.</l>
+            </lg>
+            <lg>
+               <l>This ſaid; it was the Vote oth' whole Enqueſt</l>
+               <l>The man had liv'd, had he not been Oppreſt</l>
+               <l>Which is <hi>one kind</hi> of the <hi>Countrey-Diſeaſe</hi>
+               </l>
+               <l>Infectious and Mortall in times of Peace</l>
+               <l>When bred of <hi>Wealth</hi> grows envious and haughty</l>
+               <l>Good mens enemy, and friend to the naughty.</l>
+            </lg>
+            <lg>
+               <l>Now ſince the Diſeaſe is found out; the Cure</l>
+               <l>(To tak't in time) may be effected ſure;</l>
+               <l>The Learned ſay, whoſe ſayings lett', reſpect</l>
+               <l>Remove the Cauſe, that takes away th'Effect.</l>
+            </lg>
+            <lg>
+               <l>I'me no Phyſitian, but (by chance) have gott</l>
+               <l>Three good Receits, which (in my mind) may not</l>
+               <l>Be much unfit to be preſcribed here</l>
+               <l>To cure this <hi>Countrey-Diſeaſe;</hi> far and near.</l>
+            </lg>
+            <div n="1" type="part">
+               <head>The firſt Receit.</head>
+               <lg>
+                  <l>AGainſt the firſt kinde, cre while call<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d <hi>Murthor</hi>
+                  </l>
+                  <l>Ne're truſt an <hi>Iriſh Papiſt,</hi> further</l>
+                  <l>than you can throw an Oxe: and if he flatter</l>
+                  <l>Suſpect deceit, to be the end oth' matter.</l>
+               </lg>
+               <lg>
+                  <l>Let him not wear a Sword, nor yet a Sk<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an</l>
+                  <l>Nor be too intimate with him if mean</l>
+                  <l>
+                     <pb n="29" facs="tcp:100904:15"/>You do to ſleep in a whole skin: Put not</l>
+                  <l>
+                     <hi>A Gun</hi> into his hands <hi>Powder</hi> or <hi>Shott</hi>
+                  </l>
+                  <l>To kill the Dawes, <hi>Nor</hi> give, or <hi>Lend,</hi> or <hi>Sell</hi>
+                  </l>
+                  <l>To ſuch as he, though he ſhoot ne're ſo well</l>
+                  <l>Let him not be your <hi>Fowler,</hi> if you can</l>
+                  <l>In <hi>Ireland</hi> find, but any <hi>Engliſh</hi> man,</l>
+                  <l>For by ſuch means they Arm'd themſelves at firſt</l>
+                  <l>And after that into <hi>Rehellion</hi> burſt</l>
+                  <l>And with the <hi>Weapons</hi> of the very Owner</l>
+                  <l>Have Murtherd him: their hearts as hard as ſtone-are.</l>
+               </lg>
+               <lg>
+                  <l>Let him not ride in the <hi>Militia-troops</hi>
+                  </l>
+                  <l>Nor in a <hi>Man</hi> of <hi>Warre</hi> (whoſe ſtately Poops</l>
+                  <l>Was not ordain'd for <hi>Shamrogeers</hi>) to ſerve</l>
+                  <l>Leſt they <hi>Betray</hi> or elſe, doe from you ſwerve.</l>
+                  <l>Whereby the <hi>Engliſh,</hi> may at Sea, and Land</l>
+                  <l>This <hi>Deare-bought Kingdome,</hi> keep vnder command</l>
+               </lg>
+               <lg>
+                  <l>Let not the want of Numbers e're invite</l>
+                  <l>The <hi>Ppaiſts aid,</hi> to Joyne with you in fight</l>
+                  <l>But, <hi>Truſt</hi> on God, to <hi>Help</hi> you in your need</l>
+                  <l>Not <hi>Iſr'el</hi>-like on <hi>Egypts</hi> broken Reed.</l>
+               </lg>
+               <lg>
+                  <l>The Scriptures do declare, Armies have been</l>
+                  <l>Too great for God to lead: and that was ſeene</l>
+                  <l>By <hi>David,</hi> and valiant <hi>Ionathan</hi>
+                  </l>
+                  <l>Said, God could ſave by <hi>few;</hi> the arm of man</l>
+                  <l>He did deſpiſe: ſo ſay's the Sacred Story</l>
+                  <l>Leſt to themſelves, Men ſhould a ſcribe the glory.</l>
+               </lg>
+               <lg>
+                  <l>If any private Murther chance to be</l>
+                  <l>(As from ſuch like, this Nation's ſeldome free</l>
+                  <l>Let not the Murtherer eſcape, whoſe bloud</l>
+                  <l>Shall be on his owne head, and reaſon good</l>
+                  <l>GODS Law doth warrant it<g ref="char:punc">▪</g> let not affection</l>
+                  <l>Favour or fear, or any mans Protection</l>
+                  <l>Save the Offenders life: <hi>Who ſheds mans Bloud</hi>
+                  </l>
+                  <l>
+                     <hi>By Man ſhall his be ſhed:</hi> though ne're ſo good</l>
+               </lg>
+               <lg>
+                  <pb n="30" facs="tcp:100904:16"/>
+                  <l>Let not pretence of Valour, or a Duell</l>
+                  <l>Have countenance in Law, or to the cruell</l>
+                  <l>Murtherer, be hopes of pardon; this ſure</l>
+                  <l>againſt all Murther (if not to ſay cure)</l>
+                  <l>Is a good <hi>Antidote</hi> taken in ſeaſon</l>
+                  <l>This <hi>Kingdome</hi> to preſerveith' eye of Reaſon.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The Second Receit.</head>
+               <lg>
+                  <l>THis ſecond kind, doth only bear the name</l>
+                  <l>Of the <hi>Countrey-Diſeaſe:</hi> in warre, this ſame</l>
+                  <l>Doth vſe t'outvie the Sword; the cauſe is want</l>
+                  <l>Of wholſome dyet, and good Lodgings ſcant</l>
+                  <l>From whence this Diſeaſe doth proceed: Freſh men</l>
+                  <l>Are ſubject moſt to this; ſcarce one, in ten</l>
+                  <l>But at ſome time or other, hath been ſick</l>
+                  <l>of this very Diſeaſe: 'tis not ſo quick</l>
+                  <l>As is the former kind; yet more have dy'd</l>
+                  <l>Of it, than of any other beſide.</l>
+               </lg>
+               <lg>
+                  <l>Med'cins for th'Flux are plenty; ſome will drink<g ref="char:punc">▪</g>
+                  </l>
+                  <l>New Al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> over the Kieve for it: ſome think</l>
+                  <l>The leaneſt fleſh of a Buttocke of Biefe</l>
+                  <l>Freſh, and half broyl'd, Griskin-like's the chief<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+               <lg>
+                  <l>As forth' Ague-in <hi>England,</hi> ſo we here</l>
+                  <l>For this, Receits have ſtore; that I'le for bear</l>
+                  <l>Now, any more to name: 'cauſe I intend</l>
+                  <l>But this one preſervative to commend.</l>
+               </lg>
+               <lg>
+                  <l>Firſt keep <hi>Rebellions</hi> downe, which cauſeth <hi>Warre</hi>
+                  </l>
+                  <l>Warre bringeth Scarcity, and that Hard fare</l>
+                  <l>Hard fare, and cold, cauſeth the <hi>Bloudy-Flux</hi>
+                  </l>
+                  <l>VVhich Thouſands <hi>Engliſh,</hi> into their Gravesplucks<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Now if VVarre happen, to be counted wiſe</l>
+                  <l>Better than heretofore, your Soldires prize.</l>
+                  <l>Let them have conſtant <hi>Pay,</hi> to buy them food</l>
+                  <l>And ſee their <hi>Provant,</hi> be wholſome and good:</l>
+                  <l>
+                     <pb n="31" facs="tcp:100904:16"/>And let their <hi>Garriſons</hi> unto them yield</l>
+                  <l>Good Lodgings; and when out they goe toth' <hi>Field</hi>
+                  </l>
+                  <l>Let them have <hi>Tents,</hi> and pitch on Champaign ground</l>
+                  <l>VVhere <hi>Fire</hi> and <hi>Water,</hi> may be eas'ly found</l>
+                  <l>All things ſo order'd, will doubtleſſe prevent</l>
+                  <l>The <hi>Bloudy-Flux<g ref="char:punc">▪</g>
+                     </hi> to Armyes incident</l>
+                  <l>This laſt in <hi>Warre;</hi> the reſt in simes <hi>of Peace</hi>
+                  </l>
+                  <l>Are <hi>Med'cines,</hi> againſt the <hi>Countrey-Diſeaſe.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="3" type="part">
+               <head>The Third Receit.</head>
+               <lg>
+                  <l>AGainſt <hi>Oppreſſion,</hi> thus runs my Receit</l>
+                  <l>Take out of <hi>Holy Scripture,</hi> ev'ry <hi>Threat</hi>
+                  </l>
+                  <l>pronounc'd againſt that Sin: ſpread them upon</l>
+                  <l>A fine cloath of <hi>Vnderſtanding:</hi> let none</l>
+                  <l>Of them be loſt; and if your Plaiſter crumble</l>
+                  <l>Or ſtick not faſt; your Vnderſtanding humble</l>
+                  <l>By dipping it ith'Oyle of <hi>Grace:</hi> then cling</l>
+                  <l>(As'twere a Cere-cloath) 'twill toth' <hi>V<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>'rous</hi> thing</l>
+               </lg>
+               <lg>
+                  <l>That done, apply the Plaiſter to the part</l>
+                  <l>That doth <hi>Oppreſſe</hi> (which moſt on end's the <hi>Heart</hi>
+                  </l>
+                  <l>Thence ne're remove it, till it make you ſay</l>
+                  <l>(Like <hi>Samuel</hi>) behold I'me here this day</l>
+                  <l>VVitneſs againſt me now, before the <hi>Lord</hi>
+                  </l>
+                  <l>And before his <hi>Annoynted;</hi> (ſay the word)</l>
+                  <l>VVhoſe <hi>Oxe</hi> have I taken? whoſe <hi>Aſſe?</hi> or whome</l>
+                  <l>Have I defrauded? let the <hi>Oppreſſed</hi> come;</l>
+                  <l>Of whoſe hand, have I any <hi>Bribe</hi> receiv'd</l>
+                  <l>To blind mine eyes therewith? be not deceiv'd)</l>
+                  <l>And I will it reſtore to them. I doubt</l>
+                  <l>If ſome Men here, ſhould ſay the like; then out</l>
+                  <l>VVould come an anſwer, not like his: the <hi>Poor</hi>
+                  </l>
+                  <l>
+                     <hi>Engliſh</hi> would ſay; then firſt our Armes reſtore</l>
+                  <l>
+                     <pb n="32" facs="tcp:100904:17"/>VVhich you unjuſtly tooke away, by force</l>
+                  <l>Not paying what they coſt us out of purſe</l>
+                  <l>VVherewith (by Gods bleſſing we did regaine</l>
+                  <l>This loſt <hi>Kingdome,</hi> and made you <hi>Lords:</hi> in vaine</l>
+                  <l>Have we ventur'd our Lives, and loſt our Bloud</l>
+                  <l>To get Eſtates for you: if this be good</l>
+                  <l>Requitall <hi>Judge yee?</hi> ſure it was not ſo</l>
+                  <l>That <hi>Iſr'el</hi> anſwer'd <hi>Samuel:</hi> No, no,</l>
+                  <l>They ſaid, <hi>thou hast not us defrauded,</hi> not</l>
+                  <l>
+                     <hi>Oppreſſed</hi> us: neither did'ſt thou take for</l>
+                  <l>
+                     <hi>A Babe,</hi> ought of any mans hand; the <hi>Lord</hi>
+                  </l>
+                  <l>And his <hi>Anoynted</hi> witneſs, 'tis our word.</l>
+               </lg>
+               <lg>
+                  <l>This Med'cine may be fitt for the <hi>Trustees</hi>
+                  </l>
+                  <l>Oth' <hi>Forty-Nine;</hi> who (by their licking <hi>Fees</hi>
+                  </l>
+                  <l>I'le not ſay <hi>Bribes</hi>) have got ſuch vaſt Eſtates</l>
+                  <l>Makes <hi>Wiſe</hi> Men think, of what the <hi>Vulgar</hi> prates</l>
+                  <l>The <hi>Green-Chamber</hi> buſ'neſs, was but a <hi>Cheat</hi>
+                  </l>
+                  <l>Not well perceav'd, (their <hi>Jugling</hi> was ſo neat)</l>
+                  <l>Till now; we ſee, theirs was an <hi>Army</hi> ſtrange</l>
+                  <l>All <hi>Officers,</hi> No <hi>Soldiers,</hi> could they range</l>
+                  <l>In <hi>Muster-Rolls:</hi> it ſeems, they all were <hi>Slaine</hi>
+                  </l>
+                  <l>And their <hi>Dead-Pays;</hi> toth' <hi>Trustees</hi> now remaine.</l>
+               </lg>
+               <lg>
+                  <l>This <hi>Med'cin's</hi> for the uſe of ſuch as have</l>
+                  <l>A mind like <hi>Ahabs,</hi> to whome, his <hi>Wiſe</hi> gave</l>
+                  <l>
+                     <hi>Naboths</hi> Vineyard; becauſe it was ſo near</l>
+                  <l>The Kings: let ſuch the Prophets Judgment fear</l>
+                  <l>And (if the <hi>Courts</hi> of <hi>Claims</hi> have done amiſs)</l>
+                  <l>T<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <hi>Med'cine</hi> for their Cure preſcribed is.</l>
+               </lg>
+               <lg>
+                  <l>Yet I for my part can no Man accuſe</l>
+                  <l>And (if I could) I ſhould be loath to uſe</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y pen 'gainſt <hi>Engliſh,</hi> they too my Superiours</l>
+                  <l>To whome, is Honour due; from all inferiours</l>
+               </lg>
+               <lg>
+                  <l>Some <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>old the want of Money, and bad Tradeing</l>
+                  <l>Somes of <hi>Oppreſſion;</hi> nay there is no wading</l>
+                  <l>
+                     <pb n="33" facs="tcp:100904:17"/>In this great Sea, where that a Ship may ride</l>
+                  <l>Not Sound the Depth, at loweſt Ebbe of Tide.</l>
+                  <l>
+                     <hi>Oppreſſion,</hi> is ſo various that I</l>
+                  <l>Can only Hint, what's obvious to each eye:</l>
+                  <l>The <hi>Wearer</hi> of the <hi>Shoe,</hi> he beſt doth knowe</l>
+                  <l>VVhether it wring his <hi>Inſtep</hi> or his Toe.</l>
+                  <l>Then briefly where to doe, Men make profeſſion</l>
+                  <l>As they'd be done to, that doth cure <hi>Oppreſſion.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The Authors Prayer.</head>
+               <lg>
+                  <l>NOw thou O God, who didſt the Heavens make</l>
+                  <l>The Sea<g ref="char:punc">▪</g> and Land: when firſt the word thou ſpake</l>
+                  <l>Let there be Lihgt; 'twas ſo; to thee alone</l>
+                  <l>We poor Diſtreſſed <hi>Engliſh,</hi> make our moane</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>O God,</hi> who art the Scarcher of all hearts</l>
+                  <l>Tryeſt the Reines, and in the inward parts</l>
+                  <l>Of Man, has writt thy Law; Reveal I pray.</l>
+                  <l>Thy will On Earth, that our Governours may</l>
+                  <l>Know that they Rule for thee: the Kingdom's thine</l>
+                  <l>And in thy hand, all Power is Divine</l>
+                  <l>Make them to dread thy Name, that ſit at <hi>Helme</hi>
+                  </l>
+                  <l>Leſt by ill Steering, they at length o're whelme</l>
+                  <l>This floating bottome <hi>Ireland,</hi> ſpoyl'd of Rigging</l>
+                  <l>Since th' <hi>Engliſh</hi> loſt the VVells of their owne digging<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Their owne, ſay I? 'twas. thou didſt take this land</l>
+                  <l>From a <hi>Barb'rous</hi> People, and in our hand</l>
+                  <l>Haſt given it: that we ſhould not doe like</l>
+                  <l>The Nations, whome thou didſt in fury ſtrike</l>
+                  <l>O let, our Rulers ſee, that they alone</l>
+                  <l>VVere not the men, that hath this Kingdom wonne</l>
+                  <l>Nor, that they can defend the ſame, from harme</l>
+                  <l>By humane <hi>policy,</hi> or fleſhly arme.</l>
+               </lg>
+               <lg>
+                  <l>VVhen <hi>Iſrael</hi> did all th' abominations</l>
+                  <l>Of the <hi>Heathen,</hi> and round about the <hi>Nations</hi>
+                  </l>
+                  <l>
+                     <pb n="34" facs="tcp:100904:18"/>Thou didſt drive out, whoſe Land thou didſt them give</l>
+                  <l>Thou mad'ſt them flee before their Foes, and live</l>
+                  <l>
+                     <hi>Captives</hi> in a ſtrange Land: ſo let us ſear</l>
+                  <l>That our <hi>Back-ſlidings,</hi> make us not appeare</l>
+                  <l>Like them: then, what may wee, from thee expect</l>
+                  <l>But that our puniſhment, may in effect</l>
+                  <l>Be like to theirs? good God, take thou away</l>
+                  <l>From our Great Men, their <hi>ſtonyhearts</hi> I pray</l>
+                  <l>And give them Hearts of <hi>Fleſh:</hi> that ev'ry one</l>
+                  <l>May do, but as unto, he would be done.</l>
+               </lg>
+               <lg>
+                  <l>Remove <hi>O Lord</hi> the ſpleen, and take away</l>
+                  <l>The <hi>Gall</hi> that's in mens hearts, now at this day</l>
+                  <l>VVho <hi>Perſecute</hi> their <hi>Brethren,</hi> without Cauſe</l>
+                  <l>VVreſting the <hi>Old,</hi> and inventing <hi>New</hi> Lawes</l>
+                  <l>To puniſh <hi>Anabaptiſts,</hi> and the <hi>Quakers</hi>
+                  </l>
+                  <l>And make the <hi>Cov'nanters,</hi> turn <hi>Cov'nant-breakers<g ref="char:punc">▪</g>
+                     </hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Grant this <hi>Good God,</hi> and whatſoever more</l>
+                  <l>Thou knoweſt needfull for us, wee implore</l>
+                  <l>Thy Divine <hi>Goodneſs,</hi> to beſtow it on us</l>
+                  <l>And anſwer ev'ry <hi>Lord have Mercy 'pon us</hi>
+                  </l>
+                  <l>Pronovnc'd at <hi>Church,</hi> at <hi>home,</hi> or other place</l>
+                  <l>With <hi>tokens</hi> of thy <hi>Favour,</hi> and thy <hi>Grace.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The KING, his <hi>Counſells,</hi> and his <hi>Kingdoms</hi> bleſſe</l>
+                  <l>And all his <hi>Subjects,</hi> the <hi>Great</hi> ones, and the <hi>Leſſe</hi>
+                  </l>
+                  <l>The Rev'rend <hi>Clergie,</hi> each man in his ſtation</l>
+                  <l>The <hi>Lay-man</hi> too, which comprehends the <hi>Nation<g ref="char:punc">▪</g>
+                     </hi>
+                  </l>
+                  <l>Yea, and <hi>the Iriſh,</hi> that are honeſt hearted</l>
+                  <l>Gods bleſſings be amongſt them all imparted<g ref="char:punc">▪</g>
+                  </l>
+                  <l>And laſt of all O God, <hi>Bleſſe,</hi> and defend</l>
+                  <l>Both <hi>mee,</hi> and <hi>mine;</hi> and ſo I make an END.</l>
+               </lg>
+            </div>
+            <div type="conclusion">
+               <pb n="35" facs="tcp:100904:18"/>
+               <head>The Concluſion.</head>
+               <lg>
+                  <l>ALL things that e're begining had</l>
+                  <l>Muſt have an <hi>end;</hi> bee't good, or bad</l>
+                  <l>So hath this Book, a Story ſad</l>
+               </lg>
+               <p>that's come ſir</p>
+               <lg>
+                  <l>To ſee you and ſome ſpeciall friends</l>
+                  <l>And pray's you give your recommends</l>
+                  <l>To thoſe in pow'r that may defend's</l>
+               </lg>
+               <p>from ſome ſir</p>
+               <lg>
+                  <l>That would abuſe the <hi>Cavalier</hi>
+                  </l>
+                  <l>For writeing what he hath done here</l>
+                  <l>Though 'tis not half, I'le make appear</l>
+               </lg>
+               <p>he could ſir</p>
+               <lg>
+                  <l>VVho is ſo Moderate, that drives</l>
+                  <l>At the amendment of mens lives</l>
+                  <l>And that Peace be amongſt them, ſtrives</l>
+               </lg>
+               <p>there ſhould ſir.</p>
+               <lg>
+                  <l>Now, if the <hi>Soldier</hi> favour find</l>
+                  <l>Amongſt his friends, to be ſo kind</l>
+                  <l>As to Imprint his Book: my mind</l>
+               </lg>
+               <p>to you ſir<g ref="char:punc">▪</g>
+               </p>
+               <lg>
+                  <l>I'le tell; is that the Kingdome o're</l>
+                  <l>It goe, to ſhew what ſome before</l>
+                  <l>Ne're knew: and I'le ſay more</l>
+               </lg>
+               <p>TIS TRVE SIR</p>
+            </div>
+            <div type="dialogue">
+               <p>
+                  <hi>A Dialogue, betwixt the</hi> Soldier, <hi>Author of the Book, and an</hi> Echo, <hi>being a ſummary Diſcourſe of the whole matter; briefly reſounded by the</hi> Echo.</p>
+               <p>
+                  <hi>Sold:</hi> Hark I heere is an <hi>Echo;</hi> liſten and hark</p>
+               <p>
+                  <hi>Ech: Mark: S:</hi> I will ralk with it, ſhall I nor now?</p>
+               <p>
+                  <hi>Ech: Now: S:</hi> and tell the paſſage<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and then mark</p>
+               <p>
+                  <hi>Ech: Mark: S:</hi> what anſwer it make <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll how<g ref="char:punc">▪</g>
+               </p>
+               <p>
+                  <pb n="36" facs="tcp:100904:19"/>
+                  <hi>Ech: How:</hi> S: the <hi>Iriſh</hi> into Rebellion firſt</p>
+               <p>
+                  <hi>Ech: Firſt:</hi> S: gathered in a Riottous Rout?</p>
+               <p>
+                  <hi>Ech: Rout:</hi> S: againſt Proteſtants, their fury burſt</p>
+               <p>
+                  <hi>Ech: Burſt:</hi> S: for they were ſo full it needs muſt out;</p>
+               <p>
+                  <hi>Ech: Out.</hi> S: of all meaſure was the cruell Papiſt</p>
+               <p>
+                  <hi>Ech: Papiſt:</hi> S: Bloudy: a Murdrous Rogue was Teige</p>
+               <p>
+                  <hi>Ech: Teige:</hi> S: and <hi>Dermot</hi> too, worſe than a meer <hi>Athiſt</hi>
+               </p>
+               <p>
+                  <hi>Ech: Athiſt:</hi> S: who Cov'nant keeps, there is no league</p>
+               <p>
+                  <hi>Ech: League:</hi> S: but the Pope doth indulge to be broke</p>
+               <p>
+                  <hi>Ech: Broke: S:</hi> who to the Rebbells ſent into Ireland</p>
+               <p>
+                  <hi>Ech: Ireland: S:</hi> a Bull, that made the Kingdom ſmoak</p>
+               <p>
+                  <hi>Ech: Smoak;</hi> S, and to burne, as if it were a fire-brand</p>
+               <p>
+                  <hi>Ech, Fire-brand S;</hi> ſo ſtarting mad, the Bull was made</p>
+               <p>
+                  <hi>Ech; Made. S,</hi> ſo that the Britiſh ſhould be pilled</p>
+               <p>
+                  <hi>Ech, Pilled,</hi> S, plundred, their Cattell ſtoln &amp; prey'd</p>
+               <p>
+                  <hi>Ech, Prey'd: S,</hi> and ev'ry Proteſtant ſhould be Killed</p>
+               <p>
+                  <hi>Ech, Killed,</hi> S, hanged, ſtar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, to pitty no-man</p>
+               <p>
+                  <hi>Ech, No-man,</hi> S, that was of Brittiſh race, a child</p>
+               <p>
+                  <hi>Ech, Child,</hi> S, newly born, and ev'ry tender VVoman</p>
+               <p>
+                  <hi>Ech, Woman,</hi> S, to put toth'Sword, he judg'd too mild</p>
+               <p>
+                  <hi>Ech, Mild, S,</hi> So was the <hi>Bull</hi> for the POVVDER PLOT</p>
+               <p>
+                  <hi>Ech, Plot,</hi> S, the <hi>Lords Annoynted</hi> muſt not be ſpared</p>
+               <p>
+                  <hi>Ech, Spared,</hi> S, then all his <hi>Kingdoms</hi> ſure ſhould not</p>
+               <p>
+                  <hi>Ech, Not,</hi> S, but the <hi>Lord</hi> (who for our ſafetyes cared</p>
+               <p>
+                  <hi>Ech, Cared. S,</hi> his <hi>Name</hi> alone be praiſed) then</p>
+               <p>
+                  <hi>Ech, Then,</hi> S, both the <hi>King</hi> and <hi>State</hi> preſerved. we ſee</p>
+               <p>
+                  <hi>Ech, See,</hi> S, which ſhould be a <hi>warning</hi> to all men</p>
+               <p>
+                  <hi>Ech, Men</hi> S, <hi>Watchfull</hi> and <hi>Carefull</hi> alwayes to be</p>
+               <p>
+                  <hi>Ech, Be,</hi> S, Pondering theſe things and keeping ſober</p>
+               <p>
+                  <hi>Ech, Sober,</hi> S, ſo that they may alwayes Remember</p>
+               <p>
+                  <hi>Ech, Remember,</hi> S, FORTY ONE the moneth OCTOBER</p>
+               <p>
+                  <hi>Ech, October,</hi> S, and the FIFTH day of NOVEMBER.</p>
+               <p>
+                  <hi>Ech, NOUEMBER.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb n="36" facs="tcp:100904:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
